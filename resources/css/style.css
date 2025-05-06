@@ -23,4 +23,31 @@ h4 {
   color: aquamarine;
   text-align: center;
   text-decoration: underline;
-}  
+}
+
+.video {
+  align: center;
+}
+
+.guide img {
+  align: center;
+}
+
+.guide h2 {
+  font-size: 3rem;
+  font-weight: 300;
+}
+  
+.guide h3 {
+  color: grey;
+  font-size: 1.3125rem;
+}
+
+.soon img {
+  align: center;
+}
+
+footer {
+  color: gray;
+  text-align: right;
+}
