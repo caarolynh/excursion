@@ -30,21 +30,23 @@ h4 {
 }
 
 .guide img {
-  align: center;
+  content-align: center;
 }
 
 .guide h2 {
   font-size: 3rem;
   font-weight: 300;
+  text-align: center;
 }
   
 .guide h3 {
   color: grey;
   font-size: 1.3125rem;
+  text-align: center;
 }
 
 .soon img {
-  align: center;
+  content-align: center;
 }
 
 footer {
