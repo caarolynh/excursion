@@ -43,6 +43,7 @@ h4 {
 
 .guide img {
   display: block;
+  justify-content: center;
   margin: 0 auto 2rem auto;
   max-width: 100%;
 }
