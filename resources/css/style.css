@@ -28,11 +28,21 @@ h4 {
 .video {
   display: flex;
   justify-content: center;
+  align-items: center;
+}
+
+.video video {
+  max-width: 100%;
+}
+
+.guide {
+  text-align: center;
 }
 
 .guide img {
-  display: flex;
-  justify-content: center;
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
 }
 
 .guide h2 {
@@ -47,9 +57,14 @@ h4 {
   text-align: center;
 }
 
+.soon {
+  text-align: center;
+}
+
 .soon img {
-  display: flex;
-  justify-content: center;
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
 }
 
 footer {
