@@ -26,11 +26,13 @@ h4 {
 }
 
 .video {
-  align: center;
+  display: flex;
+  align-items: center;
 }
 
 .guide img {
-  content-align: center;
+  display: flex;
+  align-items: center;
 }
 
 .guide h2 {
@@ -46,7 +48,8 @@ h4 {
 }
 
 .soon img {
-  content-align: center;
+  display: flex;
+  align-items: center;
 }
 
 footer {
