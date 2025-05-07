@@ -49,7 +49,7 @@ h4 {
 
 .guide h2 {
   font-size: 3rem;
-  font-weight: 300;
+  font-weight: normal;
   text-align: center;
 }
   
@@ -67,6 +67,7 @@ h4 {
   display: block;
   margin: 0 auto;
   max-width: 100%;
+  margin-top: 15px;
 }
 
 footer {
