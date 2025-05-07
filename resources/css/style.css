@@ -27,12 +27,12 @@ h4 {
 
 .video {
   display: flex;
-  align-items: center;
+  justify-content: center;
 }
 
 .guide img {
   display: flex;
-  align-items: center;
+  justify-content: center;
 }
 
 .guide h2 {
@@ -49,7 +49,7 @@ h4 {
 
 .soon img {
   display: flex;
-  align-items: center;
+  justify-content: center;
 }
 
 footer {
