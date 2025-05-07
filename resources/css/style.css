@@ -39,6 +39,7 @@ h4 {
 
 .guide {
   text-align: center;
+  margin-bottom: 2rem; /* Adds spacing between .guide and .soon */
 }
 
 .guide img {
